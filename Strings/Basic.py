@@ -19,7 +19,7 @@ print(a[0]) # J
 
 #looping through a string
 for x in "Coffee":
- print(x) # C o f f e
+ print(x) # C o f f e e
 
 #string length
 a = "ten thousand"
