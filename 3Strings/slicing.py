@@ -7,6 +7,7 @@ print(a[2:]) #llo, john
 print(a[:]) #Hello, john
 print(a[-9:-3]) #lo, j
 
+
 #slice with skipping
 b = "abcdefghijklmnopqrstuvwxyz"
 print(b[1:8:3]) #beh
