@@ -1,12 +1,22 @@
 #Loop
 thislist = ["apple", "banana", "cherry"]
 for x in thislist:
-  print(x) #apple banana cherry
+  print(x) #apple banana cherry 
+
+  #loop
+user = ["sam", "bill", "mark", "elon" ]
+for i in user:
+    print(i)
+
 
 #Loop Through the Index Numbers
 thislist2 = ["apple", "banana", "cherry"]
 for i in range(len(thislist2)):
-  print(thislist2[i]) #apple banana cherry
+  print(thislist2[i]) #apple banana cherry 
+
+box = ["pen", "pencil", "eraser"]
+for i in range(len(box)):
+    print(box[i])
 
 
 #Using a While Loop
